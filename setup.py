@@ -1,13 +1,16 @@
 import setuptools
+
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
+
 __version__ = "0.0.0"
 
-REPO_NAME = "Cat-vs-Dog-Classifier"
-AUTHOR_USER_NAME = "Fantasy-decrypt1803"
-SRC_REPO = "Cat-vs-Dog-Classifier"
-AUTHOR_EMAIL = "balagavrish2004@gmail.com"
+REPO_NAME = "cnnClassifier"
+AUTHOR_USER_NAME = "entbappy"
+SRC_REPO = "cnnClassifier"
+AUTHOR_EMAIL = "entbappy73@gmail.com"
+
 
 setuptools.setup(
     name=SRC_REPO,

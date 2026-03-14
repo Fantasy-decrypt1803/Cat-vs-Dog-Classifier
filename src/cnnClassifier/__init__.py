@@ -17,4 +17,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("catvsDogClassifierLogger")
+logger = logging.getLogger("cnnClassifierLogger")
